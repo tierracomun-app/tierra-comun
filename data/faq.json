@@ -1,0 +1,939 @@
+[
+{
+"id": 0,
+"cat": "ice",
+"q": {
+"es": "¿Qué hago si me detiene ICE o la policía?",
+"en": "What do I do if ICE or police stop me?"
+},
+"kw": "detener detenido arresto parar ice migra policia stopped arrested",
+"a": {
+"es": "Mantén la calma. Tienes derecho a guardar silencio. No firmes nada que no entiendas y pide hablar con un abogado.",
+"en": "Stay calm. You have the right to remain silent. Do not sign anything you do not understand and ask for a lawyer."
+},
+"src": [
+[
+"ACLU – Derechos de inmigrantes",
+"https://www.aclu.org/know-your-rights/immigrants-rights"
+]
+]
+},
+{
+"id": 1,
+"cat": "ice",
+"q": {
+"es": "¿Tengo que abrir la puerta si toca ICE?",
+"en": "Do I have to open the door to ICE?"
+},
+"kw": "puerta casa tocar abrir door knock home",
+"a": {
+"es": "No tienes que abrir si no presentan una orden firmada por un juez.",
+"en": "You do not have to open the door unless they present a warrant signed by a judge."
+},
+"src": [
+[
+"ACLU – Derechos de inmigrantes",
+"https://www.aclu.org/know-your-rights/immigrants-rights"
+]
+]
+},
+{
+"id": 2,
+"cat": "ice",
+"q": {
+"es": "¿Cómo verifico la orden judicial?",
+"en": "How do I check the warrant?"
+},
+"kw": "orden judicial juez firmada warrant judge papel",
+"a": {
+"es": "Pide que pasen la orden por debajo de la puerta. Debe estar firmada por un juez.",
+"en": "Ask them to slide the warrant under the door. It must be signed by a judge."
+},
+"src": [
+[
+"ACLU – Derechos de inmigrantes",
+"https://www.aclu.org/know-your-rights/immigrants-rights"
+],
+[
+"ILRC – Tarjetas rojas",
+"https://www.ilrc.org/red-cards-tarjetas-rojas"
+]
+]
+},
+{
+"id": 3,
+"cat": "ice",
+"q": {
+"es": "¿Tengo derecho a guardar silencio?",
+"en": "Do I have the right to remain silent?"
+},
+"kw": "silencio callar hablar contestar preguntas silent",
+"a": {
+"es": "Sí. Tienes derecho a guardar silencio.",
+"en": "Yes. You have the right to remain silent."
+},
+"src": [
+[
+"ACLU – Derechos de inmigrantes",
+"https://www.aclu.org/know-your-rights/immigrants-rights"
+]
+]
+},
+{
+"id": 4,
+"cat": "ice",
+"q": {
+"es": "¿Debo firmar papeles que me den?",
+"en": "Should I sign papers they give me?"
+},
+"kw": "firmar papeles documento formulario sign",
+"a": {
+"es": "No firmes nada sin un abogado.",
+"en": "Do not sign anything without a lawyer."
+},
+"src": [
+[
+"ACLU – Derechos de inmigrantes",
+"https://www.aclu.org/know-your-rights/immigrants-rights"
+],
+[
+"ILRC – Tarjetas rojas",
+"https://www.ilrc.org/red-cards-tarjetas-rojas"
+]
+]
+},
+{
+"id": 5,
+"cat": "ice",
+"q": {
+"es": "¿Puedo mentir o mostrar documentos falsos?",
+"en": "Can I lie or show false documents?"
+},
+"kw": "mentir falso documentos falsos lie fake",
+"a": {
+"es": "No. No mientas ni muestres documentos falsos. Puedes, en cambio, guardar silencio.",
+"en": "No. Do not lie or show false documents. You can remain silent instead."
+},
+"src": [
+[
+"ACLU – Derechos de inmigrantes",
+"https://www.aclu.org/know-your-rights/immigrants-rights"
+],
+[
+"ILRC – Tarjetas rojas",
+"https://www.ilrc.org/red-cards-tarjetas-rojas"
+]
+]
+},
+{
+"id": 6,
+"cat": "ice",
+"q": {
+"es": "¿Qué es la tarjeta roja?",
+"en": "What is the red card?"
+},
+"kw": "tarjeta roja red card",
+"a": {
+"es": "Es una tarjeta que puedes llevar contigo y que explica tus derechos.",
+"en": "It is a card you can carry that explains your rights."
+},
+"src": [
+[
+"ACLU – Derechos de inmigrantes",
+"https://www.aclu.org/know-your-rights/immigrants-rights"
+],
+[
+"ILRC – Tarjetas rojas",
+"https://www.ilrc.org/red-cards-tarjetas-rojas"
+]
+]
+},
+{
+"id": 7,
+"cat": "ice",
+"q": {
+"es": "¿Qué hago si hay redadas en mi zona?",
+"en": "What do I do if there are raids in my area?"
+},
+"kw": "redada redadas operativo raid raids",
+"a": {
+"es": "Recuerda: guarda silencio, no abras sin orden firmada por un juez, no firmes nada sin abogado y no mientas.",
+"en": "Remember: stay silent, do not open without a judge-signed warrant, do not sign without a lawyer, do not lie."
+},
+"src": [
+[
+"ACLU – Derechos de inmigrantes",
+"https://www.aclu.org/know-your-rights/immigrants-rights"
+],
+[
+"ILRC – Tarjetas rojas",
+"https://www.ilrc.org/red-cards-tarjetas-rojas"
+]
+]
+},
+{
+"id": 8,
+"cat": "asilo",
+"q": {
+"es": "¿Quién puede pedir asilo?",
+"en": "Who can apply for asylum?"
+},
+"kw": "asilo quien puede califico asylum qualify persecucion",
+"a": {
+"es": "Si sufriste o temes persecución por raza, religión, nacionalidad, opinión política o pertenencia a un grupo social.",
+"en": "If you suffered or fear persecution based on race, religion, nationality, political opinion or a particular social group."
+},
+"src": [
+[
+"USCIS – Asilo",
+"https://www.uscis.gov/humanitarian/refugees-and-asylum/asylum"
+]
+]
+},
+{
+"id": 9,
+"cat": "asilo",
+"q": {
+"es": "⏰ ¿Cuál es el plazo para pedir asilo?",
+"en": "⏰ What is the asylum deadline?"
+},
+"kw": "plazo tiempo limite fecha año deadline cuando",
+"a": {
+"es": "URGENTE: en general debes solicitarlo dentro de 1 año desde tu llegada a EE. UU. Busca ayuda legal gratuita cuanto antes.",
+"en": "URGENT: generally you must file within 1 year of arriving in the US. Seek free legal help as soon as possible."
+},
+"src": [
+[
+"USCIS – Asilo",
+"https://www.uscis.gov/humanitarian/refugees-and-asylum/asylum"
+]
+]
+},
+{
+"id": 10,
+"cat": "asilo",
+"q": {
+"es": "¿Qué formulario es el de asilo?",
+"en": "Which form is for asylum?"
+},
+"kw": "formulario forma i589 i-589 form",
+"a": {
+"es": "El formulario I-589. Descárgalo solo de uscis.gov.",
+"en": "Form I-589. Download it only from uscis.gov."
+},
+"src": [
+[
+"USCIS – Asilo",
+"https://www.uscis.gov/humanitarian/refugees-and-asylum/asylum"
+]
+]
+},
+{
+"id": 11,
+"cat": "asilo",
+"q": {
+"es": "¿Me pueden devolver a un país donde corro peligro?",
+"en": "Can they return me to a country where I am in danger?"
+},
+"kw": "devolver deportar regresar peligro return refoulement",
+"a": {
+"es": "La Convención de 1951 (art. 33) prohíbe a los Estados parte devolver a un refugiado a donde su vida o libertad estén amenazadas por raza, religión, nacionalidad, grupo social u opinión política.",
+"en": "The 1951 Convention (art. 33) bars contracting States from returning a refugee where their life or freedom is threatened on protected grounds."
+},
+"src": [
+[
+"UNHCR – Convención de 1951",
+"https://www.unhcr.org/about-unhcr/overview/1951-refugee-convention"
+],
+[
+"OHCHR – Texto de la Convención",
+"https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-relating-status-refugees"
+]
+]
+},
+{
+"id": 12,
+"cat": "asilo",
+"q": {
+"es": "¿Qué es la Convención de 1951?",
+"en": "What is the 1951 Convention?"
+},
+"kw": "convencion 1951 refugiado tratado convention",
+"a": {
+"es": "Es el tratado que define quién es refugiado y establece la no devolución.",
+"en": "The treaty that defines who is a refugee and sets non-refoulement."
+},
+"src": [
+[
+"UNHCR – Convención de 1951",
+"https://www.unhcr.org/about-unhcr/overview/1951-refugee-convention"
+],
+[
+"OHCHR – Texto de la Convención",
+"https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-relating-status-refugees"
+]
+]
+},
+{
+"id": 13,
+"cat": "asilo",
+"q": {
+"es": "¿Cómo obtengo la Green Card?",
+"en": "How do I get a Green Card?"
+},
+"kw": "green card residencia residente permanente",
+"a": {
+"es": "Hay vías por familia, empleo, asilo/refugio y otras. Formularios y tarifas oficiales solo en uscis.gov.",
+"en": "Paths include family, employment, asylum/refugee and others. Official forms and fees only on uscis.gov."
+},
+"src": [
+[
+"USCIS – Green Card",
+"https://www.uscis.gov/green-card"
+]
+]
+},
+{
+"id": 14,
+"cat": "asilo",
+"q": {
+"es": "¿Los formularios de USCIS cuestan?",
+"en": "Do USCIS forms cost money?"
+},
+"kw": "formularios cuestan gratis pagar costo forms free",
+"a": {
+"es": "Descargar los formularios es gratis en uscis.gov. Las tarifas de presentación se publican ahí.",
+"en": "Downloading forms from uscis.gov is free. Filing fees are published there."
+},
+"src": [
+[
+"USCIS – Green Card",
+"https://www.uscis.gov/green-card"
+]
+]
+},
+{
+"id": 15,
+"cat": "asilo",
+"q": {
+"es": "¿Qué es el TPS?",
+"en": "What is TPS?"
+},
+"kw": "tps estatus proteccion temporal",
+"a": {
+"es": "Protege a personas de países designados por conflicto o desastre. Las fechas cambian: revisa la página oficial de tu país.",
+"en": "Protects nationals of designated countries. Dates change: check your country's official page."
+},
+"src": [
+[
+"USCIS – TPS",
+"https://www.uscis.gov/humanitarian/temporary-protected-status"
+]
+]
+},
+{
+"id": 16,
+"cat": "asilo",
+"q": {
+"es": "¿Qué es DACA y sigue vigente?",
+"en": "What is DACA and is it still open?"
+},
+"kw": "daca dreamer dreamers nino llegue",
+"a": {
+"es": "Acción diferida para quienes llegaron de niños. Depende de decisiones judiciales: consulta USCIS para saber si aceptan solicitudes nuevas o solo renovaciones.",
+"en": "Deferred action for people brought as children. It depends on litigation: check USCIS."
+},
+"src": [
+[
+"USCIS – DACA",
+"https://www.uscis.gov/DACA"
+]
+]
+},
+{
+"id": 17,
+"cat": "abogado",
+"q": {
+"es": "¿Dónde encuentro un abogado gratis?",
+"en": "Where can I find a free lawyer?"
+},
+"kw": "abogado gratis gratuito pro bono lawyer free legal ayuda",
+"a": {
+"es": "Usa la lista oficial pro bono de la corte de inmigración (EOIR) y el directorio de Immigration Advocates Network.",
+"en": "Use the EOIR official pro bono list and the Immigration Advocates Network directory."
+},
+"src": [
+[
+"EOIR – Lista pro bono",
+"https://www.justice.gov/eoir/list-pro-bono-legal-service-providers"
+],
+[
+"Immigration Advocates – Directorio",
+"https://www.immigrationadvocates.org/legaldirectory/"
+]
+]
+},
+{
+"id": 18,
+"cat": "abogado",
+"q": {
+"es": "¿Un notario me puede ayudar con inmigración?",
+"en": "Can a notario help me with immigration?"
+},
+"kw": "notario notaria notary tramitador coyote gestor",
+"a": {
+"es": "No. En EE. UU. un notario público NO es abogado. Solo abogados con licencia o representantes acreditados por el DOJ.",
+"en": "No. In the US a notary public is NOT a lawyer. Only licensed attorneys or DOJ-accredited representatives."
+},
+"src": [
+[
+"USCIS – Estafas comunes",
+"https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/common-scams"
+],
+[
+"EOIR – Encontrar representación legal",
+"https://www.justice.gov/eoir/find-legal-representation"
+]
+]
+},
+{
+"id": 19,
+"cat": "abogado",
+"q": {
+"es": "¿Cómo evito estafas migratorias?",
+"en": "How do I avoid immigration scams?"
+},
+"kw": "estafa fraude scam enganar garantiza",
+"a": {
+"es": "No pagues por formularios, no firmes documentos en blanco y desconfía de quien garantiza resultados.",
+"en": "Do not pay for forms, do not sign blank papers, distrust guaranteed results."
+},
+"src": [
+[
+"USCIS – Estafas comunes",
+"https://www.uscis.gov/scams-fraud-and-misconduct/avoid-scams/common-scams"
+],
+[
+"EOIR – Encontrar representación legal",
+"https://www.justice.gov/eoir/find-legal-representation"
+]
+]
+},
+{
+"id": 20,
+"cat": "abogado",
+"q": {
+"es": "¿Quién está autorizado a darme consejo legal?",
+"en": "Who is authorized to give me legal advice?"
+},
+"kw": "autorizado acreditado representante doj accredited",
+"a": {
+"es": "Solo abogados con licencia o representantes acreditados por el DOJ.",
+"en": "Only licensed attorneys or DOJ-accredited representatives."
+},
+"src": [
+[
+"EOIR – Lista pro bono",
+"https://www.justice.gov/eoir/list-pro-bono-legal-service-providers"
+],
+[
+"Immigration Advocates – Directorio",
+"https://www.immigrationadvocates.org/legaldirectory/"
+]
+]
+},
+{
+"id": 21,
+"cat": "abogado",
+"q": {
+"es": "¿Qué hago si tengo audiencia en corte de inmigración?",
+"en": "I have an immigration court hearing, what do I do?"
+},
+"kw": "corte audiencia juez hearing court",
+"a": {
+"es": "Busca representación gratuita en la lista pro bono de EOIR lo antes posible.",
+"en": "Find free representation on the EOIR pro bono list as soon as possible."
+},
+"src": [
+[
+"EOIR – Lista pro bono",
+"https://www.justice.gov/eoir/list-pro-bono-legal-service-providers"
+],
+[
+"Immigration Advocates – Directorio",
+"https://www.immigrationadvocates.org/legaldirectory/"
+]
+]
+},
+{
+"id": 22,
+"cat": "salud",
+"q": {
+"es": "¿Me atienden en emergencias sin papeles?",
+"en": "Will the ER treat me without papers?"
+},
+"kw": "emergencia hospital urgencias sin papeles indocumentado er",
+"a": {
+"es": "Sí. Por la ley EMTALA, las salas de emergencia de hospitales con Medicare deben evaluarte y estabilizarte sin importar tu estatus ni si puedes pagar.",
+"en": "Yes. Under EMTALA, Medicare hospital ERs must screen and stabilize you regardless of status or ability to pay."
+},
+"src": [
+[
+"CMS – EMTALA",
+"https://www.cms.gov/medicare/regulations-guidance/legislation/emergency-medical-treatment-labor-act"
+],
+[
+"HRSA – Buscar centro de salud",
+"https://findahealthcenter.hrsa.gov/"
+]
+]
+},
+{
+"id": 23,
+"cat": "salud",
+"q": {
+"es": "¿Dónde hay un médico barato?",
+"en": "Where can I find affordable care?"
+},
+"kw": "medico doctor clinica barato barata centro salud",
+"a": {
+"es": "Los centros de salud comunitarios cobran según tus ingresos. Búscalos en findahealthcenter.hrsa.gov.",
+"en": "Community health centers charge by income. Find them at findahealthcenter.hrsa.gov."
+},
+"src": [
+[
+"CMS – EMTALA",
+"https://www.cms.gov/medicare/regulations-guidance/legislation/emergency-medical-treatment-labor-act"
+],
+[
+"HRSA – Buscar centro de salud",
+"https://findahealthcenter.hrsa.gov/"
+]
+]
+},
+{
+"id": 24,
+"cat": "salud",
+"q": {
+"es": "¿Qué es EMTALA?",
+"en": "What is EMTALA?"
+},
+"kw": "emtala ley",
+"a": {
+"es": "La ley federal que obliga a hospitales con Medicare a atender emergencias sin importar estatus o pago.",
+"en": "The federal law requiring Medicare hospitals to handle emergencies regardless of status or payment."
+},
+"src": [
+[
+"CMS – EMTALA",
+"https://www.cms.gov/medicare/regulations-guidance/legislation/emergency-medical-treatment-labor-act"
+],
+[
+"HRSA – Buscar centro de salud",
+"https://findahealthcenter.hrsa.gov/"
+]
+]
+},
+{
+"id": 25,
+"cat": "trabajo",
+"q": {
+"es": "¿Tengo derecho al salario mínimo sin papeles?",
+"en": "Do I get minimum wage without papers?"
+},
+"kw": "salario minimo sueldo pago wage",
+"a": {
+"es": "Sí. El salario mínimo, las horas extra y la protección contra represalias aplican sin importar tu estatus.",
+"en": "Yes. Minimum wage, overtime and anti-retaliation protection apply regardless of status."
+},
+"src": [
+[
+"DOL – Wage and Hour Division",
+"https://www.dol.gov/agencies/whd"
+],
+[
+"NLRB – Derechos de empleados",
+"https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/employees"
+]
+]
+},
+{
+"id": 26,
+"cat": "trabajo",
+"q": {
+"es": "No me pagaron, ¿qué hago?",
+"en": "I was not paid, what do I do?"
+},
+"kw": "pagaron robo salario deben dinero patron wage theft",
+"a": {
+"es": "Puedes reportar el robo de salario de forma confidencial ante la División de Salarios y Horas (DOL).",
+"en": "You can report wage theft confidentially to the DOL Wage and Hour Division."
+},
+"src": [
+[
+"DOL – Wage and Hour Division",
+"https://www.dol.gov/agencies/whd"
+],
+[
+"NLRB – Derechos de empleados",
+"https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/employees"
+]
+]
+},
+{
+"id": 27,
+"cat": "trabajo",
+"q": {
+"es": "¿Me pagan horas extra?",
+"en": "Do I get overtime?"
+},
+"kw": "horas extra overtime",
+"a": {
+"es": "Las reglas de horas extra aplican sin importar tu estatus migratorio.",
+"en": "Overtime rules apply regardless of immigration status."
+},
+"src": [
+[
+"DOL – Wage and Hour Division",
+"https://www.dol.gov/agencies/whd"
+],
+[
+"NLRB – Derechos de empleados",
+"https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/employees"
+]
+]
+},
+{
+"id": 28,
+"cat": "trabajo",
+"q": {
+"es": "¿Me pueden castigar por reclamar?",
+"en": "Can I be punished for complaining?"
+},
+"kw": "represalia despedir castigo reclamar retaliation",
+"a": {
+"es": "La ley protege contra represalias sin importar el estatus.",
+"en": "The law protects against retaliation regardless of status."
+},
+"src": [
+[
+"DOL – Wage and Hour Division",
+"https://www.dol.gov/agencies/whd"
+],
+[
+"NLRB – Derechos de empleados",
+"https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/employees"
+]
+]
+},
+{
+"id": 29,
+"cat": "trabajo",
+"q": {
+"es": "¿Cómo obtengo permiso de trabajo?",
+"en": "How do I get a work permit?"
+},
+"kw": "permiso trabajo ead i765 i-765 autorizacion empleo",
+"a": {
+"es": "Con el formulario I-765 (EAD). Ciertas categorías, como asilo pendiente o TPS, pueden solicitarlo.",
+"en": "With Form I-765 (EAD). Certain categories, like pending asylum or TPS, may apply."
+},
+"src": [
+[
+"USCIS – Trabajar en EE. UU.",
+"https://www.uscis.gov/working-in-the-united-states"
+]
+]
+},
+{
+"id": 30,
+"cat": "escuela",
+"q": {
+"es": "¿Mis hijos pueden ir a la escuela sin papeles?",
+"en": "Can my kids go to school without papers?"
+},
+"kw": "escuela hijos ninos estudiar colegio school kids",
+"a": {
+"es": "Sí. Por Plyler v. Doe (1982), las escuelas públicas K-12 no pueden negar la inscripción por estatus migratorio.",
+"en": "Yes. Under Plyler v. Doe (1982), public K-12 schools cannot deny enrollment based on status."
+},
+"src": [
+[
+"Departamento de Educación",
+"https://www.ed.gov/"
+],
+[
+"Plyler v. Doe (texto del fallo)",
+"https://supreme.justia.com/cases/federal/us/457/202/"
+]
+]
+},
+{
+"id": 31,
+"cat": "escuela",
+"q": {
+"es": "¿Qué es Plyler v. Doe?",
+"en": "What is Plyler v. Doe?"
+},
+"kw": "plyler doe fallo corte suprema",
+"a": {
+"es": "Fallo de la Corte Suprema de 1982 que protege el acceso de niños a escuelas públicas sin importar su estatus.",
+"en": "1982 Supreme Court ruling protecting children's access to public schools regardless of status."
+},
+"src": [
+[
+"Departamento de Educación",
+"https://www.ed.gov/"
+],
+[
+"Plyler v. Doe (texto del fallo)",
+"https://supreme.justia.com/cases/federal/us/457/202/"
+]
+]
+},
+{
+"id": 32,
+"cat": "emergencia",
+"q": {
+"es": "Hay desplazamiento masivo, ¿qué hago primero?",
+"en": "There is mass displacement, what first?"
+},
+"kw": "desplazamiento masivo huir crisis guerra desastre evacuar",
+"a": {
+"es": "Ponte a salvo tú y tu familia antes que cualquier trámite. Acuerda un punto de encuentro y un contacto fuera de la zona. Lleva agua, medicinas, cargador y documentos.",
+"en": "Get safe first. Agree on a meeting point and an out-of-area contact. Carry water, medicine, charger and documents."
+},
+"src": [
+[
+"Ready.gov – Plan de emergencia (guía general)",
+"https://www.ready.gov/plan"
+]
+]
+},
+{
+"id": 33,
+"cat": "emergencia",
+"q": {
+"es": "¿Qué documentos debo llevar?",
+"en": "Which documents should I take?"
+},
+"kw": "documentos papeles pasaporte acta llevar",
+"a": {
+"es": "Originales de pasaporte, identificaciones, actas de nacimiento, documentos migratorios y médicos.",
+"en": "Originals of passports, IDs, birth certificates, immigration and medical papers."
+},
+"src": [
+[
+"Ready.gov – Plan de emergencia",
+"https://www.ready.gov/plan"
+]
+]
+},
+{
+"id": 34,
+"cat": "emergencia",
+"q": {
+"es": "¿Cómo respaldo mis documentos?",
+"en": "How do I back up my documents?"
+},
+"kw": "copia respaldo backup nube foto",
+"a": {
+"es": "Haz fotos o copias, guárdalas en una nube con contraseña fuerte y verificación en dos pasos, y deja otra copia con alguien de confianza.",
+"en": "Photograph them, store in a cloud with strong password and two-step verification, and leave a copy with someone you trust."
+},
+"src": [
+[
+"Ready.gov – Plan de emergencia",
+"https://www.ready.gov/plan"
+]
+]
+},
+{
+"id": 35,
+"cat": "emergencia",
+"q": {
+"es": "¿Qué derechos tengo si me desplazo dentro de mi país?",
+"en": "What rights do I have if displaced in my country?"
+},
+"kw": "desplazado interno idp dentro pais",
+"a": {
+"es": "Los Principios Rectores de la ONU protegen contra el desplazamiento arbitrario y contra el retorno forzado a lugares de riesgo (principio 15(d)).",
+"en": "UN Guiding Principles protect against arbitrary displacement and forced return to risky places (Principle 15(d))."
+},
+"src": [
+[
+"OHCHR – Principios Rectores (estándares internacionales)",
+"https://www.ohchr.org/en/special-procedures/sr-internally-displaced-persons/international-standards"
+]
+]
+},
+{
+"id": 36,
+"cat": "emergencia",
+"q": {
+"es": "Perdí contacto con mi familia",
+"en": "I lost contact with my family"
+},
+"kw": "familia perdida perdi buscar familiar desaparecido family lost",
+"a": {
+"es": "Usa Restablecimiento del Contacto entre Familiares del CICR / Cruz Roja: familylinks.icrc.org.",
+"en": "Use ICRC / Red Cross Restoring Family Links: familylinks.icrc.org."
+},
+"src": [
+[
+"ACNUR – Ayuda",
+"https://help.unhcr.org/"
+],
+[
+"OIM (IOM)",
+"https://www.iom.int/"
+],
+[
+"CICR – Restoring Family Links",
+"https://familylinks.icrc.org/"
+]
+]
+},
+{
+"id": 37,
+"cat": "emergencia",
+"q": {
+"es": "¿Cómo contacto a ACNUR?",
+"en": "How do I contact UNHCR?"
+},
+"kw": "acnur unhcr onu naciones unidas refugiados",
+"a": {
+"es": "ACNUR tiene páginas de ayuda por país en help.unhcr.org.",
+"en": "UNHCR has country help pages at help.unhcr.org."
+},
+"src": [
+[
+"ACNUR – Ayuda",
+"https://help.unhcr.org/"
+],
+[
+"OIM (IOM)",
+"https://www.iom.int/"
+],
+[
+"CICR – Restoring Family Links",
+"https://familylinks.icrc.org/"
+]
+]
+},
+{
+"id": 38,
+"cat": "emergencia",
+"q": {
+"es": "¿Qué es la OIM?",
+"en": "What is IOM?"
+},
+"kw": "oim iom organizacion internacional migraciones",
+"a": {
+"es": "La Organización Internacional para las Migraciones, agencia de la ONU para migración.",
+"en": "The International Organization for Migration, the UN migration agency."
+},
+"src": [
+[
+"ACNUR – Ayuda",
+"https://help.unhcr.org/"
+],
+[
+"OIM (IOM)",
+"https://www.iom.int/"
+],
+[
+"CICR – Restoring Family Links",
+"https://familylinks.icrc.org/"
+]
+]
+},
+{
+"id": 39,
+"cat": "emergencia",
+"q": {
+"es": "¿Cómo hago un plan familiar?",
+"en": "How do I make a family plan?"
+},
+"kw": "plan familiar familia hijos cuidar preparar",
+"a": {
+"es": "Memoriza teléfonos clave, designa quién cuidará a tus hijos si te detienen, deja documentos donde tu familia sepa y ten a mano el número de ayuda legal.",
+"en": "Memorize key numbers, designate a caregiver for your kids, keep documents where family knows, and keep a legal-help number handy."
+},
+"src": [
+[
+"Ready.gov – Plan",
+"https://www.ready.gov/plan"
+],
+[
+"ACLU – Derechos de inmigrantes",
+"https://www.aclu.org/know-your-rights/immigrants-rights"
+]
+]
+},
+{
+"id": 40,
+"cat": "emergencia",
+"q": {
+"es": "¿Quién cuida a mis hijos si me detienen?",
+"en": "Who cares for my kids if I am detained?"
+},
+"kw": "hijos ninos cuidar detienen custodia",
+"a": {
+"es": "Decide con anticipación quién los cuidará y que tu familia lo sepa.",
+"en": "Decide in advance who will care for them and make sure family knows."
+},
+"src": [
+[
+"Ready.gov – Plan",
+"https://www.ready.gov/plan"
+],
+[
+"ACLU – Derechos de inmigrantes",
+"https://www.aclu.org/know-your-rights/immigrants-rights"
+]
+]
+},
+{
+"id": 41,
+"cat": "recursos",
+"q": {
+"es": "Necesito comida",
+"en": "I need food"
+},
+"kw": "comida hambre alimentos banco food",
+"a": {
+"es": "Busca tu banco de alimentos en feedingamerica.org o llama al 211.",
+"en": "Find your food bank at feedingamerica.org or call 211."
+},
+"src": [
+[
+"Feeding America",
+"https://www.feedingamerica.org/find-your-local-foodbank"
+],
+[
+"211",
+"https://www.211.org/"
+]
+]
+},
+{
+"id": 42,
+"cat": "recursos",
+"q": {
+"es": "Necesito vivienda o refugio",
+"en": "I need housing or shelter"
+},
+"kw": "vivienda casa refugio albergue dormir housing shelter",
+"a": {
+"es": "El 211 conecta con ayuda local de vivienda y crisis.",
+"en": "211 connects you to local housing and crisis help."
+},
+"src": [
+[
+"211",
+"https://www.211.org/"
+]
+]
+}
+]
